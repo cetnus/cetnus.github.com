@@ -13,9 +13,9 @@ a:hover{color: #6db0c6;}
 #wrap{width: 980px;margin: 0 auto;}
 #top{width: 100%; height: 26px; margin: 0 auto; background: url('imgs/top.jpg') no-repeat; padding-top: 74px; text-align: right; color: #ddd; font-size: 14px;}
 #line{width: 100%; height: 3px; margin: 0 auto; background: url('imgs/line.jpg') no-repeat; font-size: 0;}
-#main{width: 100%; height: 519px; margin: 0 auto; background: url('imgs/main.jpg') no-repeat;}
+#main{width: 100%; height: 519px; margin: 0 auto; background: url('http://www.hualilight.cn/upload/2013071769647657.jpg') no-repeat;}
 
-#about{width: 100%; height: 521px; margin: 0 auto; background: url('imgs/about.jpg') no-repeat;font-size: 14px;overflow: hidden;}
+#about{width: 100%; height: 521px; margin: 0 auto; background: url('http://www.hualilight.cn/upload/2013071769606089.jpg') no-repeat;font-size: 14px;overflow: hidden;}
 #aboutl{width:170px; *width: 180px; padding-left:20px;background: none;letter-spacing:5px;float: left;margin-top: 72px;}
 #aboutl ul{list-style-type:none;  }
 #aboutl li{margin-top: 13px;*margin-top: 12px;}
@@ -46,4 +46,4 @@ a:hover{color: #6db0c6;}
 
 
 
-#bottom{width: 100%; height: 60px; margin: 0 auto; background: url('imgs/bottom.jpg') no-repeat; padding-top: 50px; color: #6db0c6; font-size: 14px; white-space: nowrap;}
+#bottom{width: 100%; height: 60px; margin: 0 auto; background: url('http://www.hualilight.cn/upload/2013071769460913.jpg') no-repeat; padding-top: 50px; color: #6db0c6; font-size: 14px; white-space: nowrap;}
